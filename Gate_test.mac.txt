@@ -8,7 +8,7 @@
 /vis/viewer/set/background black			
 /vis/scene/add/axes		
 
-/gate/geometry/setMaterialDatabase data/GateMaterials.db
+/gate/geometry/setMaterialDatabase GateMaterials.db
 
 /gate/world/geometry/setXLength 100 cm
 /gate/world/geometry/setYLength 100 cm
